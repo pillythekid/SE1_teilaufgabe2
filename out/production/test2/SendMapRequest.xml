@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
+<map>
+    <mtrnr>1307120</mtrnr>
+    <region id="A">
+        <field>1</field>
+        <field>1</field>
+        <field>2</field>
+        <field>1</field>
+    </region>
+    <region id="B">
+        <field>0</field>
+        <field>0</field>
+        <field>2</field>
+        <field>1</field>
+    </region>
+    <region id="C">
+        <field>0</field>
+        <field>0</field>
+        <field>2</field>
+        <field>1</field>
+    </region>
+    <region id="D">
+        <field>0</field>
+        <field>0</field>
+        <field>2</field>
+        <field>1</field>
+    </region>
+    <region id="E">
+        <field>0</field>
+        <field>0</field>
+        <field>2</field>
+        <field>1</field>
+    </region>
+    <region id="F">
+        <field>0</field>
+        <field>0</field>
+        <field>2</field>
+        <field>1</field>
+    </region>
+    <region id="G">
+        <field>0</field>
+        <field>0</field>
+        <field>2</field>
+        <field>1</field>
+    </region>
+    <region id="H">
+        <field>0</field>
+        <field>0</field>
+        <field>2</field>
+        <field>1</field>
+    </region>
+    <position>
+        <content>castle</content>
+        <X>0</X>
+        <Y>0</Y>
+    </position>
+    <position>
+        <content>start</content>
+        <X>0</X>
+        <Y>1</Y>
+    </position>
+</map>

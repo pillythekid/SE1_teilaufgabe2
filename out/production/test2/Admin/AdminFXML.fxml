@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Tab?>
+<?import javafx.scene.control.TabPane?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane prefHeight="400.0" prefWidth="400.0" xmlns="http://javafx.com/javafx/9" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Admin.AdminController">
+   <children>
+      <TabPane prefHeight="402.0" prefWidth="401.0" tabClosingPolicy="UNAVAILABLE">
+        <tabs>
+          <Tab text="player data">
+            <content>
+              <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+                     <children>
+                        <Label layoutX="20.0" layoutY="16.0" prefHeight="17.0" prefWidth="59.0" text="Player 1:" />
+                        <Label layoutX="206.0" layoutY="43.0" prefHeight="17.0" prefWidth="47.0" text="mtrnr:" />
+                        <Label fx:id="p1con" layoutX="91.0" layoutY="16.0" prefHeight="17.0" prefWidth="59.0" />
+                        <Label fx:id="p1mtrnr" layoutX="92.0" layoutY="45.0" prefHeight="17.0" prefWidth="59.0" />
+                        <Label layoutX="205.0" layoutY="16.0" prefHeight="17.0" prefWidth="59.0" text="Player 2:" />
+                        <Label layoutX="21.0" layoutY="45.0" prefHeight="17.0" prefWidth="47.0" text="mtrnr:" />
+                        <Label fx:id="p2con" layoutX="278.0" layoutY="16.0" prefHeight="17.0" prefWidth="59.0" />
+                        <Label fx:id="p2mtrnr" layoutX="279.0" layoutY="45.0" prefHeight="17.0" prefWidth="59.0" />
+                        <Label layoutX="19.0" layoutY="73.0" prefHeight="17.0" prefWidth="65.0" text="treasure:" />
+                        <Label layoutX="205.0" layoutY="73.0" prefHeight="17.0" prefWidth="65.0" text="treasure:" />
+                        <Label fx:id="p1treasure" layoutX="91.0" layoutY="73.0" prefHeight="17.0" prefWidth="63.0" />
+                        <Label fx:id="p2treasure" layoutX="279.0" layoutY="74.0" prefHeight="17.0" prefWidth="63.0" />
+                        <Label layoutX="20.0" layoutY="99.0" prefHeight="17.0" prefWidth="65.0" text="castle:" />
+                        <Label layoutX="206.0" layoutY="99.0" prefHeight="17.0" prefWidth="65.0" text="castle:" />
+                        <Label fx:id="p1castle" layoutX="92.0" layoutY="99.0" prefHeight="17.0" prefWidth="63.0" />
+                        <Label fx:id="p2castle" layoutX="280.0" layoutY="100.0" prefHeight="17.0" prefWidth="63.0" />
+                     </children>
+                  </AnchorPane>
+            </content>
+          </Tab>
+          <Tab text="map">
+            <content>
+              <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+                     <children>
+                        <TableView layoutX="9.0" layoutY="-7.0" prefHeight="377.0" prefWidth="377.0">
+                          <columns>
+                            <TableColumn fx:id="A" minWidth="9.209338188171387" prefWidth="46.790995597839355" text="A" />
+                              <TableColumn fx:id="B" minWidth="9.209338188171387" prefWidth="46.790995597839355" text="B" />
+                              <TableColumn fx:id="C" minWidth="9.209338188171387" prefWidth="46.790995597839355" text="C" />
+                              <TableColumn fx:id="D" minWidth="9.209338188171387" prefWidth="46.790995597839355" text="D" />
+                              <TableColumn fx:id="E" minWidth="9.209338188171387" prefWidth="46.790995597839355" text="E" />
+                              <TableColumn fx:id="F" minWidth="9.209338188171387" prefWidth="46.790995597839355" text="F" />
+                              <TableColumn fx:id="G" minWidth="9.209338188171387" prefWidth="46.790995597839355" text="G" />
+                              <TableColumn fx:id="H" minWidth="9.209338188171387" prefWidth="46.790995597839355" text="H" />
+                          </columns>
+                        </TableView>
+                     </children>
+                  </AnchorPane>
+            </content>
+          </Tab>
+        </tabs>
+      </TabPane>
+   </children>
+</AnchorPane>

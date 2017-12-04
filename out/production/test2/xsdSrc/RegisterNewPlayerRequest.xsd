@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema"
+		targetNamespace="http://localhost:8080/RegisterNewPlayerRequest"
+		xmlns:tns="http://localhost:8080/RegisterNewPlayerRequest"
+		elementFormDefault="qualified">
+	<element name="player">
+		<complexType>
+			<sequence>
+				<element name="mtrnr">
+					<simpleType>
+						<restriction base="string">
+							<minLength value="7"></minLength>
+							<maxLength value="8"></maxLength>
+						</restriction>
+					</simpleType>
+				</element>
+			</sequence>
+		</complexType>
+	</element>
+</schema>
