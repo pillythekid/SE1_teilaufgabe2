@@ -1,24 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test2/RequestController/xmlParser.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/RequestController/xmlParser.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/test2/RequestController/RegisterNewPLayerRequest_Parser.class" afterPath="$PROJECT_DIR$/out/production/test2/RequestController/RegisterNewPLayerRequest_Parser.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/test2/RequestController/SendMapRequest_Parser.class" afterPath="$PROJECT_DIR$/out/production/test2/RequestController/SendMapRequest_Parser.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/test2/RegisterNewPlayer.xml" afterPath="$PROJECT_DIR$/out/production/test2/RegisterNewPlayer.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/test2/xsdSrc/NextTurnRequest.xsd" afterPath="$PROJECT_DIR$/out/production/test2/xsdSrc/NextTurnRequest.xsd" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/test2/xsdSrc/PlayerDataRequest.xsd" afterPath="$PROJECT_DIR$/out/production/test2/xsdSrc/PlayerDataRequest.xsd" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/test2/xsdSrc/SendMapRequest.xsd" afterPath="$PROJECT_DIR$/out/production/test2/xsdSrc/SendMapRequest.xsd" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/RegisterNewPlayer.xml" afterPath="$PROJECT_DIR$/src/RegisterNewPlayer.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/RequestController/NextTurnRequest_Parser.java" afterPath="$PROJECT_DIR$/src/RequestController/NextTurnRequest_Parser.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/xsdSrc/NextTurnRequest.xsd" afterPath="$PROJECT_DIR$/src/xsdSrc/NextTurnRequest.xsd" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/xsdSrc/PlayerDataRequest.xsd" afterPath="$PROJECT_DIR$/src/xsdSrc/PlayerDataRequest.xsd" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/xsdSrc/SendMapRequest.xsd" afterPath="$PROJECT_DIR$/src/xsdSrc/SendMapRequest.xsd" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test2.iml" afterPath="$PROJECT_DIR$/test2.iml" />
-    </list>
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
     <ignored path="JavaFxApplication.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -95,11 +78,64 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".project" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".project" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.project">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dbConnection.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/dbUtil/dbConnection.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AdminFXML.fxml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Admin/AdminFXML.fxml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="JavaFX-Scene-Builder">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="map.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Admin/map.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AdminController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Admin/AdminController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TourneyData.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Admin/TourneyData.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="94">
+              <caret line="30" column="105" lean-forward="true" selection-start-line="30" selection-start-column="51" selection-end-line="30" selection-end-column="105" />
               <folding />
             </state>
           </provider>
@@ -236,8 +272,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -254,14 +292,12 @@
               <item name="test2" type="b2602c69:ProjectViewProjectNode" />
               <item name="test2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="RequestController" type="462c0819:PsiDirectoryNode" />
+              <item name="Admin" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -604,6 +640,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -617,7 +654,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30402932" sideWeight="0.6703755" order="5" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30402932" sideWeight="0.6703755" order="5" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -679,14 +716,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/example/demo/NextTurnRequest_Parser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="19" column="78" lean-forward="true" selection-start-line="19" selection-start-column="78" selection-end-line="19" selection-end-column="78" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/example/demo/NextTurnRequest_Parser.java" />
     <entry file="file://$PROJECT_DIR$/src/sample/Main.java" />
     <entry file="file://$PROJECT_DIR$/src/sample/LoginModel.java" />
     <entry file="file://$PROJECT_DIR$/src/dbUtil/dbConnection.java" />
@@ -706,15 +736,10 @@
     <entry file="file://$PROJECT_DIR$/src/sample/LoginModel.java" />
     <entry file="file://$PROJECT_DIR$/src/tournament/DBcontroller.java" />
     <entry file="file://$PROJECT_DIR$/src/tournament/management.java" />
-    <entry file="file://$PROJECT_DIR$/src/Admin/map.css" />
-    <entry file="file://$PROJECT_DIR$/src/Admin/AdminFXML.fxml" />
     <entry file="file://$PROJECT_DIR$/src/RequestController/rqCtrl.java" />
     <entry file="file://$PROJECT_DIR$/test2.iml" />
-    <entry file="file://$PROJECT_DIR$/src/Admin/TourneyData.java" />
     <entry file="file://$PROJECT_DIR$/src/RequestController/RegisterNewPLayerRequest_Parser.java" />
     <entry file="file://$PROJECT_DIR$/src/RequestController/PlayerDataRequest_Parser.java" />
-    <entry file="file://$PROJECT_DIR$/src/Admin/AdminController.java" />
-    <entry file="file://$PROJECT_DIR$/src/dbUtil/dbConnection.java" />
     <entry file="file://$PROJECT_DIR$/src/Logger/Log.java" />
     <entry file="file://$PROJECT_DIR$/src/Logger/UseLog.java" />
     <entry file="file://$PROJECT_DIR$/src/RequestController/NextTurnRequest_Parser.java" />
@@ -745,14 +770,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/example/demo/NextTurnRequest_Parser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="19" column="78" lean-forward="false" selection-start-line="19" selection-start-column="78" selection-end-line="19" selection-end-column="78" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/example/demo/NextTurnRequest_Parser.java" />
     <entry file="file://$PROJECT_DIR$/.classpath">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -765,6 +783,49 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dbUtil/dbConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Admin/AdminFXML.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Admin/map.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Admin/AdminController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Admin/TourneyData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="30" column="105" lean-forward="true" selection-start-line="30" selection-start-column="51" selection-end-line="30" selection-end-column="105" />
           <folding />
         </state>
       </provider>
