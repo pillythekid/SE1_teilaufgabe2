@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<player>
-    <mtrnr>str1234</mtrnr>
+<player xmlns = "http://localhost:8080/RegisterNewPlayerRequest"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema">
+    <mtrnr>1307120</mtrnr>
 </player>

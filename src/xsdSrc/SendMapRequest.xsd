@@ -3,23 +3,29 @@
 	targetNamespace="http://localhost:8080/SendMapRequest"
 	xmlns:tns="http://localhost:8080/SendMapRequest"
 	elementFormDefault="qualified">
-	<element name="map">
+	<element name="maps">
 		<complexType>
 			<sequence>
-				<element name="mtrnr" type="string"></element>
-				<element name="region">
+				<element name="map">
 					<complexType>
 						<sequence>
-							<element name="field" type="int"></element>
-						</sequence>
-					</complexType>
-				</element>
-				<element name="position">
-					<complexType>
-						<sequence>
-							<element name="content" type="string"></element>
-							<element name="X" type="int"></element>
-							<element name="Y" type="int"></element>
+							<element name="mtrnr" type="string"></element>
+							<element name="region">
+								<complexType>
+									<sequence>
+										<element name="field" type="int"></element>
+									</sequence>
+								</complexType>
+							</element>
+							<element name="position">
+								<complexType>
+									<sequence>
+										<element name="content" type="string"></element>
+										<element name="X" type="int"></element>
+										<element name="Y" type="int"></element>
+									</sequence>
+								</complexType>
+							</element>
 						</sequence>
 					</complexType>
 				</element>
